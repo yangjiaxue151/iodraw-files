@@ -16,7 +16,7 @@
         <mxCell id="0Wq7a4eTnJpv5DI2UoqN-9" value="" style="sketch=0;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.databases.monitoring_store;" vertex="1" parent="1">
           <mxGeometry x="160" y="480" width="110" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="0Wq7a4eTnJpv5DI2UoqN-10" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.whats_new;fillColor=#d5e8d4;strokeColor=#82b366;fillStyle=auto;gradientColor=#97d077;" vertex="1" parent="1">
+        <mxCell id="0Wq7a4eTnJpv5DI2UoqN-10" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.whats_new;fillStyle=auto;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="160" y="238" width="55" height="38" as="geometry" />
         </mxCell>
       </root>
