@@ -16,7 +16,7 @@
             <mxPoint x="210" y="279.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0Wq7a4eTnJpv5DI2UoqN-22" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#432D57;fillColor=#76608a;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.sound_file;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="0Wq7a4eTnJpv5DI2UoqN-22" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#C73500;fillColor=#fa6800;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.sound_file;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="120" y="250" width="40" height="50" as="geometry" />
         </mxCell>
       </root>
