@@ -10,22 +10,14 @@
         <mxCell id="0Wq7a4eTnJpv5DI2UoqN-8" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#b85450;fillColor=#f8cecc;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.headset;gradientColor=#ea6b66;" vertex="1" parent="1">
           <mxGeometry x="730" y="550" width="36" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="0Wq7a4eTnJpv5DI2UoqN-10" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.whats_new;fillStyle=auto;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
-          <mxGeometry x="105" y="255" width="65" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="0Wq7a4eTnJpv5DI2UoqN-18" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;strokeColor=#ce4040;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="180" y="279.5" as="sourcePoint" />
             <mxPoint x="210" y="279.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <object label="" id="0Wq7a4eTnJpv5DI2UoqN-19">
-          <mxCell style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#10739e;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.folder;fillColor=#b1ddf0;" vertex="1" parent="1">
-            <mxGeometry x="140" y="370" width="50" height="45" as="geometry" />
-          </mxCell>
-        </object>
         <mxCell id="0Wq7a4eTnJpv5DI2UoqN-22" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.sound_file;" vertex="1" parent="1">
-          <mxGeometry x="190" y="490" width="40" height="50" as="geometry" />
+          <mxGeometry x="120" y="250" width="40" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
