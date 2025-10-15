@@ -19,9 +19,11 @@
             <mxPoint x="210" y="279.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0Wq7a4eTnJpv5DI2UoqN-19" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#10739e;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.folder;fillColor=#b1ddf0;" vertex="1" parent="1">
-          <mxGeometry x="140" y="370" width="50" height="45" as="geometry" />
-        </mxCell>
+        <object label="" id="0Wq7a4eTnJpv5DI2UoqN-19">
+          <mxCell style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#10739e;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.folder;fillColor=#b1ddf0;" vertex="1" parent="1">
+            <mxGeometry x="140" y="370" width="50" height="45" as="geometry" />
+          </mxCell>
+        </object>
       </root>
     </mxGraphModel>
   </diagram>
