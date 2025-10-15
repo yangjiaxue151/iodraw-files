@@ -7,9 +7,6 @@
         <mxCell id="0Wq7a4eTnJpv5DI2UoqN-3" value="" style="html=1;strokeWidth=2;outlineConnect=0;dashed=0;align=center;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.eip.control_bus;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="490" y="360" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0Wq7a4eTnJpv5DI2UoqN-4" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.audioboo;fillColor=#B9217E" vertex="1" parent="1">
-          <mxGeometry x="390" y="430" width="54" height="79.4" as="geometry" />
-        </mxCell>
         <mxCell id="0Wq7a4eTnJpv5DI2UoqN-6" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.video_projector_screen;" vertex="1" parent="1">
           <mxGeometry x="580" y="320" width="80" height="100" as="geometry" />
         </mxCell>
@@ -19,7 +16,7 @@
         <mxCell id="0Wq7a4eTnJpv5DI2UoqN-9" value="" style="sketch=0;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.databases.monitoring_store;" vertex="1" parent="1">
           <mxGeometry x="160" y="480" width="110" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="0Wq7a4eTnJpv5DI2UoqN-10" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.whats_new;" vertex="1" parent="1">
+        <mxCell id="0Wq7a4eTnJpv5DI2UoqN-10" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#001DBC;fillColor=#0050ef;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.whats_new;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="215" y="190" width="55" height="38" as="geometry" />
         </mxCell>
       </root>
