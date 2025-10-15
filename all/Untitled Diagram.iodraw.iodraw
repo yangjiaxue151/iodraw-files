@@ -5,13 +5,19 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="0Wq7a4eTnJpv5DI2UoqN-3" value="" style="html=1;strokeWidth=2;outlineConnect=0;dashed=0;align=center;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.eip.control_bus;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
-          <mxGeometry x="414" y="255" width="60" height="40" as="geometry" />
+          <mxGeometry x="354" y="255" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0Wq7a4eTnJpv5DI2UoqN-8" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#b85450;fillColor=#f8cecc;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.headset;gradientColor=#ea6b66;" vertex="1" parent="1">
           <mxGeometry x="730" y="550" width="36" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0Wq7a4eTnJpv5DI2UoqN-10" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.whats_new;fillStyle=auto;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="105" y="250" width="65" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0Wq7a4eTnJpv5DI2UoqN-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="490" as="sourcePoint" />
+            <mxPoint x="440" y="440" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
