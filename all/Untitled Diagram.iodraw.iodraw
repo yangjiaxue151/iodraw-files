@@ -10,9 +10,6 @@
         <mxCell id="0Wq7a4eTnJpv5DI2UoqN-4" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.audioboo;fillColor=#B9217E" vertex="1" parent="1">
           <mxGeometry x="390" y="430" width="54" height="79.4" as="geometry" />
         </mxCell>
-        <mxCell id="0Wq7a4eTnJpv5DI2UoqN-5" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.audioboo;fillColor=#B9217E" vertex="1" parent="1">
-          <mxGeometry x="80" y="360" width="54" height="79.4" as="geometry" />
-        </mxCell>
         <mxCell id="0Wq7a4eTnJpv5DI2UoqN-6" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.video_projector_screen;" vertex="1" parent="1">
           <mxGeometry x="580" y="320" width="80" height="100" as="geometry" />
         </mxCell>
