@@ -16,9 +16,6 @@
             <mxPoint x="160" y="282" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yyPuQwPfV7UA_7BKC8un-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0Wq7a4eTnJpv5DI2UoqN-22" target="0Wq7a4eTnJpv5DI2UoqN-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="0Wq7a4eTnJpv5DI2UoqN-22" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.sound_file;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" parent="1" vertex="1">
           <mxGeometry x="60" y="247.5" width="60" height="70" as="geometry" />
         </mxCell>
@@ -36,6 +33,12 @@
         </mxCell>
         <mxCell id="yyPuQwPfV7UA_7BKC8un-5" value="" style="rounded=1;arcSize=10;dashed=1;strokeColor=#666666;fillColor=none;gradientColor=none;dashPattern=8 4;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="325" y="190" width="175" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="yyPuQwPfV7UA_7BKC8un-11" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;strokeColor=#050505;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="292" as="sourcePoint" />
+            <mxPoint x="170" y="292" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
