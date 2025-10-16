@@ -16,12 +16,6 @@
         <mxCell id="0Wq7a4eTnJpv5DI2UoqN-22" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.sound_file;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" parent="1" vertex="1">
           <mxGeometry x="70" y="247.5" width="60" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="yyPuQwPfV7UA_7BKC8un-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="410" y="310" as="targetPoint" />
-            <mxPoint x="410" y="280" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="yyPuQwPfV7UA_7BKC8un-2" value="GCC-PHAT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="210" width="100" height="50" as="geometry" />
         </mxCell>
