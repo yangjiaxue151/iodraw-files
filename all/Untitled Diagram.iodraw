@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="0Wq7a4eTnJpv5DI2UoqN-3" value="" style="html=1;strokeWidth=2;outlineConnect=0;dashed=0;align=center;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.eip.control_bus;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="190" y="255" width="80" height="55" as="geometry" />
+          <mxGeometry x="170" y="150" width="80" height="55" as="geometry" />
         </mxCell>
         <mxCell id="0Wq7a4eTnJpv5DI2UoqN-18" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;strokeColor=#050505;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -14,7 +14,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0Wq7a4eTnJpv5DI2UoqN-22" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.sound_file;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" parent="1" vertex="1">
-          <mxGeometry x="70" y="247.5" width="60" height="70" as="geometry" />
+          <mxGeometry x="50" y="110" width="60" height="70" as="geometry" />
         </mxCell>
         <mxCell id="yyPuQwPfV7UA_7BKC8un-2" value="GCC-PHAT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="210" width="100" height="50" as="geometry" />
