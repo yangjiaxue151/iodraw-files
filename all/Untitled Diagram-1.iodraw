@@ -70,7 +70,7 @@
             <mxPoint x="500" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e1FLPSyY3hYRntn69cxt-2" value="&lt;b&gt;SBL&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="e1FLPSyY3hYRntn69cxt-2" value="&lt;font size=&quot;3&quot;&gt;&lt;b&gt;GCC-PHAT Features&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="740" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
