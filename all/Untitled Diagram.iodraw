@@ -17,7 +17,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0Wq7a4eTnJpv5DI2UoqN-22" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.sound_file;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" parent="1" vertex="1">
-          <mxGeometry x="120" y="250" width="40" height="50" as="geometry" />
+          <mxGeometry x="120" y="255" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yyPuQwPfV7UA_7BKC8un-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yyPuQwPfV7UA_7BKC8un-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="376.5" y="300" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="yyPuQwPfV7UA_7BKC8un-2" value="GCC-PHAT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="339" y="220" width="75" height="40" as="geometry" />
