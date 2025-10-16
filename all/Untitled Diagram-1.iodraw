@@ -38,7 +38,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yyPuQwPfV7UA_7BKC8un-16" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;strokeWidth=2;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="310" y="157.5" width="20" height="345" as="geometry" />
+          <mxGeometry x="310" y="170" width="20" height="345" as="geometry" />
         </mxCell>
         <mxCell id="yyPuQwPfV7UA_7BKC8un-17" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;strokeColor=#050505;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -72,9 +72,6 @@
         </mxCell>
         <mxCell id="e1FLPSyY3hYRntn69cxt-2" value="&lt;font size=&quot;3&quot;&gt;&lt;b&gt;GCC-PHAT Features&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="740" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="e1FLPSyY3hYRntn69cxt-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.425;entryY=0.058;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="yyPuQwPfV7UA_7BKC8un-16" target="yyPuQwPfV7UA_7BKC8un-16">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
