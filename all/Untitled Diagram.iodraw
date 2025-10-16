@@ -26,7 +26,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yyPuQwPfV7UA_7BKC8un-2" value="GCC-PHAT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="339" y="220" width="75" height="40" as="geometry" />
+          <mxGeometry x="330" y="210" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yyPuQwPfV7UA_7BKC8un-4" value="Cross-Correlation Spectrum" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="300" width="100" height="50" as="geometry" />
