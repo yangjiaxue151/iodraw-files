@@ -21,8 +21,12 @@
         </mxCell>
         <mxCell id="yyPuQwPfV7UA_7BKC8un-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="376.5" y="300" as="targetPoint" />
-            <mxPoint x="377" y="270" as="sourcePoint" />
+            <mxPoint x="400" y="300" as="targetPoint" />
+            <mxPoint x="400.5" y="270" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="401" y="290" />
+              <mxPoint x="400" y="290" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="yyPuQwPfV7UA_7BKC8un-2" value="GCC-PHAT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
