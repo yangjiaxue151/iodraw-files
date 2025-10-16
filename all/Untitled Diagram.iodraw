@@ -31,7 +31,7 @@
         <mxCell id="yyPuQwPfV7UA_7BKC8un-4" value="Cross-Correlation Spectrum" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="320" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="yyPuQwPfV7UA_7BKC8un-5" value="" style="rounded=1;arcSize=10;dashed=1;strokeColor=#2b00ff;fillColor=none;gradientColor=none;dashPattern=8 4;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="yyPuQwPfV7UA_7BKC8un-5" value="" style="rounded=1;arcSize=10;dashed=1;strokeColor=#666666;fillColor=none;gradientColor=none;dashPattern=8 4;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="325" y="190" width="170" height="189.75" as="geometry" />
         </mxCell>
       </root>
