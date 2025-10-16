@@ -20,7 +20,7 @@
           <mxGeometry x="120" y="250" width="40" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yyPuQwPfV7UA_7BKC8un-2" value="GCC-PHAT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="325" y="290" width="75" height="40" as="geometry" />
+          <mxGeometry x="339" y="220" width="75" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
