@@ -55,7 +55,7 @@
         <mxCell id="yyPuQwPfV7UA_7BKC8un-20" value="Fusion Framework" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="420" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="yyPuQwPfV7UA_7BKC8un-21" value="SBL" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yyPuQwPfV7UA_7BKC8un-21" value="Optimization and Convergence" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="420" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
