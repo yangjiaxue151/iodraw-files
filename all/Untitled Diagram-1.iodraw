@@ -19,7 +19,7 @@
         <mxCell id="KvpyrE1DOkPLTYmjgUbZ-5" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Normalized&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 18px; background-color: initial;&quot;&gt;power map&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 18px;&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="270" y="270" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KvpyrE1DOkPLTYmjgUbZ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="KvpyrE1DOkPLTYmjgUbZ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.404;entryY=0.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="KvpyrE1DOkPLTYmjgUbZ-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="414" y="240" as="targetPoint" />
             <mxPoint x="364" y="240" as="sourcePoint" />
