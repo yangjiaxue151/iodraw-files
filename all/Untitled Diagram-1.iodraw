@@ -38,7 +38,7 @@
           <mxGeometry x="390" y="307.5" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yyPuQwPfV7UA_7BKC8un-19" value="" style="rounded=1;arcSize=10;dashed=1;strokeColor=#666666;fillColor=none;gradientColor=none;dashPattern=8 4;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="510" y="584" width="270" height="300" as="geometry" />
+          <mxGeometry x="350" y="192.5" width="270" height="300" as="geometry" />
         </mxCell>
         <mxCell id="yyPuQwPfV7UA_7BKC8un-21" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;GCC-PHAT Feature&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="410" width="200" height="50" as="geometry" />
@@ -55,13 +55,13 @@
             <mxPoint x="240" y="869.52" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e1FLPSyY3hYRntn69cxt-2" value="&lt;font size=&quot;3&quot;&gt;&lt;b&gt;GCC-PHAT Features&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="e1FLPSyY3hYRntn69cxt-2" value="&lt;font size=&quot;3&quot;&gt;GCC-PHAT Features&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="840" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e1FLPSyY3hYRntn69cxt-4" value="&lt;font size=&quot;3&quot;&gt;&lt;b&gt;Vector&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;y&lt;sub&gt;true&lt;/sub&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="e1FLPSyY3hYRntn69cxt-4" value="&lt;font size=&quot;3&quot;&gt;Vector&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;y&lt;sub style=&quot;&quot;&gt;true&lt;/sub&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="670" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e1FLPSyY3hYRntn69cxt-5" value="&lt;font size=&quot;3&quot;&gt;&lt;b&gt;Mapping&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;Matrix&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="e1FLPSyY3hYRntn69cxt-5" value="&lt;font size=&quot;3&quot;&gt;Mapping&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Matrix&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="785" width="160" height="170" as="geometry" />
         </mxCell>
         <mxCell id="e1FLPSyY3hYRntn69cxt-6" value="&lt;font size=&quot;3&quot;&gt;&lt;b&gt;(x,y)&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;Grid Points&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
