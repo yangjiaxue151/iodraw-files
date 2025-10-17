@@ -86,10 +86,10 @@
           <mxGeometry x="290" y="785" width="160" height="170" as="geometry" />
         </mxCell>
         <mxCell id="e1FLPSyY3hYRntn69cxt-6" value="&lt;font size=&quot;3&quot;&gt;&lt;b&gt;(x,y)&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;Grid Points&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="1020" width="120" height="60" as="geometry" />
+          <mxGeometry x="260" y="1030" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e1FLPSyY3hYRntn69cxt-7" value="&lt;font size=&quot;3&quot;&gt;&lt;b&gt;True Source&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="1010" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="1010" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e1FLPSyY3hYRntn69cxt-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -99,8 +99,8 @@
         </mxCell>
         <mxCell id="e1FLPSyY3hYRntn69cxt-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="480" y="1039.5" as="targetPoint" />
-            <mxPoint x="420" y="1040" as="sourcePoint" />
+            <mxPoint x="490" y="1039.49" as="targetPoint" />
+            <mxPoint x="430" y="1039.99" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="e1FLPSyY3hYRntn69cxt-15" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1">
