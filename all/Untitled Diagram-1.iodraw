@@ -16,7 +16,7 @@
         <mxCell id="KvpyrE1DOkPLTYmjgUbZ-3" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;w ~ w| p(w|y)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="170" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KvpyrE1DOkPLTYmjgUbZ-5" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;w ~ w| p(w|y)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KvpyrE1DOkPLTYmjgUbZ-5" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Normalized&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;power map&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="270" y="270" width="230" height="60" as="geometry" />
         </mxCell>
       </root>
