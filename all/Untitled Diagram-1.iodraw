@@ -5,16 +5,16 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="0Wq7a4eTnJpv5DI2UoqN-3" value="" style="html=1;strokeWidth=2;outlineConnect=0;dashed=0;align=center;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.eip.control_bus;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="680" y="307.5" width="80" height="55" as="geometry" />
+          <mxGeometry x="180" y="312.5" width="80" height="55" as="geometry" />
         </mxCell>
         <mxCell id="0Wq7a4eTnJpv5DI2UoqN-18" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;strokeColor=#050505;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="310" y="339.52" as="sourcePoint" />
-            <mxPoint x="340" y="339.52" as="targetPoint" />
+            <mxPoint x="140" y="339.5" as="sourcePoint" />
+            <mxPoint x="170" y="339.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0Wq7a4eTnJpv5DI2UoqN-22" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.sound_file;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" parent="1" vertex="1">
-          <mxGeometry x="240" y="305" width="60" height="70" as="geometry" />
+          <mxGeometry x="70" y="297.5" width="60" height="70" as="geometry" />
         </mxCell>
         <mxCell id="yyPuQwPfV7UA_7BKC8un-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Parameter Setting&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="210" width="200" height="50" as="geometry" />
@@ -24,9 +24,12 @@
         </mxCell>
         <mxCell id="yyPuQwPfV7UA_7BKC8un-11" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;strokeColor=#050505;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="640" y="339.52" as="sourcePoint" />
-            <mxPoint x="670" y="339.52" as="targetPoint" />
+            <mxPoint x="270" y="342" as="sourcePoint" />
+            <mxPoint x="300" y="342" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="yyPuQwPfV7UA_7BKC8un-16" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;strokeWidth=2;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="310" y="170" width="20" height="345" as="geometry" />
         </mxCell>
         <mxCell id="yyPuQwPfV7UA_7BKC8un-17" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;strokeColor=#050505;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -38,7 +41,7 @@
           <mxGeometry x="390" y="307.5" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yyPuQwPfV7UA_7BKC8un-19" value="" style="rounded=1;arcSize=10;dashed=1;strokeColor=#666666;fillColor=none;gradientColor=none;dashPattern=8 4;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="355" y="180" width="275" height="320" as="geometry" />
+          <mxGeometry x="340" y="180" width="350" height="320" as="geometry" />
         </mxCell>
         <mxCell id="yyPuQwPfV7UA_7BKC8un-21" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;GCC-PHAT Feature&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="410" width="200" height="50" as="geometry" />
