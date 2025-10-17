@@ -76,7 +76,7 @@
         <mxCell id="e1FLPSyY3hYRntn69cxt-4" value="&lt;font size=&quot;3&quot;&gt;&lt;b&gt;Vector&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;y&lt;sub&gt;true&lt;/sub&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="680" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e1FLPSyY3hYRntn69cxt-5" value="&lt;font size=&quot;3&quot;&gt;&lt;b&gt;GCC-PHAT Features&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="e1FLPSyY3hYRntn69cxt-5" value="&lt;font size=&quot;3&quot;&gt;&lt;b&gt;Mapping&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;Matrix&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="800" width="160" height="170" as="geometry" />
         </mxCell>
       </root>
