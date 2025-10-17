@@ -1,0 +1,76 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0" version="24.7.17">
+  <diagram name="Page-1" id="sQpn74WI19Jjwd1Wmxzu">
+    <mxGraphModel dx="1426" dy="751" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0Wq7a4eTnJpv5DI2UoqN-3" value="" style="html=1;strokeWidth=2;outlineConnect=0;dashed=0;align=center;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.eip.control_bus;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="180" y="302.5" width="80" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="0Wq7a4eTnJpv5DI2UoqN-18" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;strokeColor=#050505;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="329.5" as="sourcePoint" />
+            <mxPoint x="170" y="329.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0Wq7a4eTnJpv5DI2UoqN-22" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.sound_file;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" parent="1" vertex="1">
+          <mxGeometry x="70" y="287.5" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="yyPuQwPfV7UA_7BKC8un-2" value="&lt;b&gt;GCC-PHAT&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="210" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yyPuQwPfV7UA_7BKC8un-4" value="&lt;b&gt;Cross-Correlation Spectrum&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="530" y="210" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yyPuQwPfV7UA_7BKC8un-5" value="" style="rounded=1;arcSize=10;dashed=1;strokeColor=#666666;fillColor=none;gradientColor=none;dashPattern=8 4;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="360" y="190" width="290" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="yyPuQwPfV7UA_7BKC8un-11" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;strokeColor=#050505;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="329.5" as="sourcePoint" />
+            <mxPoint x="300" y="329.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yyPuQwPfV7UA_7BKC8un-14" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;strokeColor=#050505;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="240" as="sourcePoint" />
+            <mxPoint x="520" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yyPuQwPfV7UA_7BKC8un-16" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;strokeWidth=2;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="310" y="170" width="20" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="yyPuQwPfV7UA_7BKC8un-17" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;strokeColor=#050505;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="499.5" y="287.5" as="sourcePoint" />
+            <mxPoint x="499.5" y="317.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yyPuQwPfV7UA_7BKC8un-18" value="&lt;b&gt;SBL&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="455" y="317.5" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yyPuQwPfV7UA_7BKC8un-19" value="" style="rounded=1;arcSize=10;dashed=1;strokeColor=#666666;fillColor=none;gradientColor=none;dashPattern=8 4;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="360" y="400" width="290" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="yyPuQwPfV7UA_7BKC8un-20" value="&lt;b&gt;Fusion Framework&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="420" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yyPuQwPfV7UA_7BKC8un-21" value="&lt;b&gt;Optimization and Convergence&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="530" y="420" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yyPuQwPfV7UA_7BKC8un-22" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;strokeColor=#050505;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="444.5" as="sourcePoint" />
+            <mxPoint x="520" y="444.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yyPuQwPfV7UA_7BKC8un-25" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;strokeColor=#050505;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="370" as="sourcePoint" />
+            <mxPoint x="500" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
