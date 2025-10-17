@@ -83,7 +83,7 @@
           <mxGeometry x="290" y="670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e1FLPSyY3hYRntn69cxt-5" value="&lt;font size=&quot;3&quot;&gt;&lt;b&gt;Mapping&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;Matrix&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="785" width="160" height="170" as="geometry" />
+          <mxGeometry x="290" y="785" width="160" height="170" as="geometry" />
         </mxCell>
         <mxCell id="e1FLPSyY3hYRntn69cxt-6" value="&lt;font size=&quot;3&quot;&gt;&lt;b&gt;(x,y)&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;Grid Points&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="1010" width="120" height="60" as="geometry" />
@@ -133,7 +133,7 @@
             <mxPoint x="640" y="869.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e1FLPSyY3hYRntn69cxt-22" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="e1FLPSyY3hYRntn69cxt-22" value="" style="endArrow=none;html=1;rounded=0;entryX=0.58;entryY=0.015;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="e1FLPSyY3hYRntn69cxt-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="500" y="899" as="sourcePoint" />
             <mxPoint x="640" y="900" as="targetPoint" />
