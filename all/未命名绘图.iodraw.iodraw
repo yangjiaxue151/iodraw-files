@@ -13,6 +13,9 @@
         <mxCell id="yz-Zl81cM5WeaIOb-8e6-4" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.audioboo;fillColor=#B9217E" vertex="1" parent="1">
           <mxGeometry x="260" y="320" width="54" height="79.4" as="geometry" />
         </mxCell>
+        <mxCell id="yz-Zl81cM5WeaIOb-8e6-5" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.phonefavs;gradientColor=#DFDEDE" vertex="1" parent="1">
+          <mxGeometry x="140" y="414" width="102.4" height="102.4" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
