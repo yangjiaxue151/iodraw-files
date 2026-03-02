@@ -7,6 +7,9 @@
         <mxCell id="tWpNhjJZ7KU-k8IrCkKg-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Multi-Channel Acoustic Signals&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="180" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="tWpNhjJZ7KU-k8IrCkKg-2" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.whats_new;" vertex="1" parent="1">
+          <mxGeometry x="160" y="350" width="55" height="38" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
